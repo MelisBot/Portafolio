@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(192, 250, 98);
+}
+#img-perfil{
+    border-color: rgb(153, 0, 255);
+    width: 250px;
+    
+}
+#img-stack{
+    width: 350px;
+}
+
+#text1{
+    color: rgb(204, 0, 255);
+    text-decoration-style:double;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+}
+
+.titulo-proyecto{
+    text-shadow: 2px 5px 30px #1dbfff;
+}
+
+.bg-primary{
+    background-color: #fd9843!important;
+}
+
+.nav-link{
+    color: #653208!important;
+}
+
+.text-bg-primary {
+    background-color: #fd9843!important;
+}
+
+.btn-primary {
+    background-color: #fd9843!important;
+}
+
+#proyecto-1{
+    background-image: url('imagenes/proyecto-1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#proyecto-2{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-3{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-4{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-5{
+    background-image: url('unsplash-photo-1.jpg');
+}
+#proyecto-6{
+    background-image: url('unsplash-photo-1.jpg');
+}
+
+.carousel-item{
+    height: 400px;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #fd9843;
+    height: 5px;
+}
+
+.carousel-caption{
+    color:rgb(0, 0, 0);
+}
+
+.icono {
+    font-size: 2rem;
+    color: white;
+    margin: 12px;
+}
