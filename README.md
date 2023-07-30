@@ -10,6 +10,8 @@ Incluye una descripción de su motivación, experiencias, proyectos, articulos p
 
 También contiene una sección de almacenamiento de archivos *(imágenes)* que nos permiten modificar la imagen de perfil del desarrollador y contiene una animación desarrollada en JavaScript.
 
+*****
+
 ## Tecnología  utilizadas para el proyecto
 
 Esta página fue creada con:
@@ -20,11 +22,16 @@ Esta página fue creada con:
 * JavaScript
 
 Ademas se incluyen *Google fonts*.
-##SITIO DEL PORTAFOLIO
+
+****
+
+## SITIO DEL PORTAFOLIO
 El portafolio lo puedes ver en la siguiente (URL: https://dancing-horse-32ea66.netlify.app/ ).
 ## Español
 
 El texto de la página web está escrito en español, sin embargo las clases relacionadas con Bootstrap se incluyen en inglés.
+
+****
 
 ## Contacto
 
